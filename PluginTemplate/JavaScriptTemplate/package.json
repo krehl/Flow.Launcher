@@ -1,0 +1,18 @@
+{
+  "name": "flow-launcher-plugin-template",
+  "version": "1.0.0",
+  "description": "A template for creating JavaScript plugins for Flow.Launcher",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "flow-launcher",
+    "plugin"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "flow-launcher-helper": "^1.0.0"
+  }
+}

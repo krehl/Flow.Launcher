@@ -1,0 +1,12 @@
+{
+  "ID": "GENERATE-YOUR-UNIQUE-GUID-HERE",
+  "ActionKeyword": "pytemplate",
+  "Name": "Python Plugin Template",
+  "Description": "A template for creating Python plugins for Flow.Launcher",
+  "Author": "Your Name",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/yourusername/yourplugin",
+  "ExecuteFileName": "main.py",
+  "IcoPath": "Images/icon.png"
+}
