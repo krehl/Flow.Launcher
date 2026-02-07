@@ -1,0 +1,12 @@
+{
+  "ID": "GENERATE-YOUR-UNIQUE-GUID-HERE",
+  "ActionKeyword": "template",
+  "Name": "Plugin Template",
+  "Description": "A template for creating Flow.Launcher plugins",
+  "Author": "Your Name",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/yourusername/yourplugin",
+  "ExecuteFileName": "Flow.Launcher.Plugin.PluginTemplate.dll",
+  "IcoPath": "Images/icon.png"
+}

@@ -228,6 +228,7 @@ Or download the [early access version](https://github.com/Flow-Launcher/Prerelea
 ## 📦 Plugins
 
 - Support wide range of plugins. Visit [here](https://www.flowlauncher.com/plugins/) for our plugin portfolio.
+- **Want to create your own plugin?** Check out our [Plugin Development Guide](PLUGIN_DEVELOPMENT.md) for a comprehensive tutorial!
 - Publish your own plugin to flow! Create plugins in:
 
 <p align="center">

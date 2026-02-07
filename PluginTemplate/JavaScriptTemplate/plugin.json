@@ -1,0 +1,12 @@
+{
+  "ID": "GENERATE-YOUR-UNIQUE-GUID-HERE",
+  "ActionKeyword": "jstemplate",
+  "Name": "JavaScript Plugin Template",
+  "Description": "A template for creating JavaScript plugins for Flow.Launcher",
+  "Author": "Your Name",
+  "Version": "1.0.0",
+  "Language": "javascript",
+  "Website": "https://github.com/yourusername/yourplugin",
+  "ExecuteFileName": "main.js",
+  "IcoPath": "Images/icon.png"
+}

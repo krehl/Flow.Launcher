@@ -1,0 +1,5 @@
+{
+  "enable_example_feature": true,
+  "max_results": 10,
+  "example_text": "Default text"
+}
